@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D-oracle
-- 👀 I’m interested in web technologies
+- 👀 I’m interested in Web and AI technologies
 - 🌱 I’m currently learning Android Development with Kotlin
-- 💞️ I’m looking to collaborate on any interesting technology
+- 💞️ I’m looking to collaborate on any interesting open source project
 - 📫 Mail me at dr.gggsquare@gmail.com or Whatsapp me on https://wa.me/+2347066384150
 
 <!---
